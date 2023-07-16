@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [bibekjodd.vercel.app](bibekjodd.vercel.app)
+- 👨‍💻 All of my projects are available at [github.com/bibekjodd](github.com/bibekjodd)
 
 - 💬 Ask me about **React, Typescript, NodeJS, MongoDB, Firebase, NextJS, Vue, Socket.io**
 
