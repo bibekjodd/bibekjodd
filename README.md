@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bibekjodd</h1>
-<h3 align="center">A tech enthusiast but a more passionate sports lover form Nepal</h3>
+<h3 align="center">A tech enthusiast but a more passionate sports lover from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekjodd&label=Profile%20views&color=0e75b6&style=flat" alt="bibekjodd" /> </p>
 
