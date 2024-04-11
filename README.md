@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekjodd" alt="bibekjodd" /></a> </p>
 
-- 🔭 I’m currently working on [typothunder](https://github.com/bigyan-sapkota/typothunder)
+- 🔭 I’m currently working on [rabbitkeys](https://github.com/bibekjodd/rabbitkeys)
 
 - 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [github.com/bibekjodd](github.com/bibekjodd)
 
-- 💬 Ask me about **React, Typescript, NodeJS, MongoDB, Firebase, NextJS, Vue, Socket.io**
+- 💬 Ask me about **React, Typescript, SQL, NodeJS, MongoDB, Firebase, NextJS, Vue, Socket.io**
 
 - 📫 How to reach me **bibekjodd@gmail.com**
 
